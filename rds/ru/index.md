@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Release Deployment Service
 description: Сервис управления релизами
 ---
